@@ -4,7 +4,7 @@
 #
 Name     : libsignal-protocol-c
 Version  : 2.3.3
-Release  : 2
+Release  : 3
 URL      : https://github.com/signalapp/libsignal-protocol-c/archive/v2.3.3/libsignal-protocol-c-2.3.3.tar.gz
 Source0  : https://github.com/signalapp/libsignal-protocol-c/archive/v2.3.3/libsignal-protocol-c-2.3.3.tar.gz
 Summary  : Signal Protocol C Library
